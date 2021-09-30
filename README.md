@@ -1,3 +1,7 @@
+# Guest List
+
+A simple guest list created with react. You can add guests, mark/unmark them as attending aswell as remove them from the list.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

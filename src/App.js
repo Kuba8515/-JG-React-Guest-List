@@ -77,7 +77,7 @@ const attendingGuestList = css`
 `;
 
 function App() {
-  const baseUrl = 'http://localhost:5000';
+  const baseUrl = 'https://react-guest-list9.herokuapp.com';
   const [guestList, setGuestList] = useState([]);
   const [firstName, setFirstName] = useState('');
   const [lastName, setLastName] = useState('');
